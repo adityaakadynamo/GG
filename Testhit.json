@@ -1,18 +1,20 @@
 [
     {
-    "name" : "Ravi Tamada", 
-    "email" : "ravi8x@gmail.com",
-    "phone" : {
-        "home" : "08947 000000",
-        "mobile" : "9999999999"
-    }
+    "theme_name" : "Bold UI", 
+    "theme_link" : "http://www.google.com",
+    "theme_image" : "https://raw.githubusercontent.com/adityaakadynamo/GG/master/hiten_boldui.png",
+    "theme_version" : {
+        "number" : "2.5"
+        "current" : "true",
+        "Latest" : "false"
     },
     {
-    "name" : "Tommy", 
-    "email" : "tommy@gmail.com",
-    "phone" : {
-        "home" : "08946 000000",
-        "mobile" : "0000000000"
-    }
+    "theme_name" : "Ravi Tamada", 
+    "theme_link" : "http://www.google.com",
+    "theme_image" : "https://raw.githubusercontent.com/adityaakadynamo/GG/master/hiten_cherry.png",
+    "theme_version" : {
+        "number" : "2.5"
+        "current" : "true",
+        "Latest" : "false"
     }
 ]
