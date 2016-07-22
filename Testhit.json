@@ -4,7 +4,7 @@
     "theme_link" : "http://www.google.com",
     "theme_image" : "https://raw.githubusercontent.com/adityaakadynamo/GG/master/hiten_boldui.png",
     "theme_version" : {
-        "number" : "2.5"
+        "number" : "2.5",
         "current" : "true",
         "Latest" : "false"
     },
@@ -13,7 +13,7 @@
     "theme_link" : "http://www.google.com",
     "theme_image" : "https://raw.githubusercontent.com/adityaakadynamo/GG/master/hiten_cherry.png",
     "theme_version" : {
-        "number" : "2.5"
+        "number" : "2.5",
         "current" : "true",
         "Latest" : "false"
     }
