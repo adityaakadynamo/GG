@@ -54,5 +54,21 @@
     {
     "name" : "Vivid", 
     "link" : "http://www.bigdx.com/userwalls/ideadesigns/WallsHd/Vivid_small.png"
+    },
+    {
+    "name" : "Weyo", 
+    "link" : "http://www.bigdx.com/userwalls/ideadesigns/WallsHd/Weyo_small.png"
+    },
+    {
+    "name" : "Blade", 
+    "link" : "http://www.bigdx.com/userwalls/ideadesigns/WallsHd/Blade_small.png"
+    },
+    {
+    "name" : "Blush", 
+    "link" : "http://www.bigdx.com/userwalls/ideadesigns/WallsHd/Blush_small.png"
+    },
+    {
+    "name" : "Blush1", 
+    "link" : "http://www.bigdx.com/userwalls/ideadesigns/WallsHd/Blush1_small.png"
     }
 ]
