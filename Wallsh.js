@@ -38,5 +38,21 @@
     {
     "name" : "Md", 
     "link" : "http://www.bigdx.com/userwalls/ideadesigns/WallsHd/Md_small.png"
+    },
+    {
+    "name" : "Paper Dark", 
+    "link" : "http://www.bigdx.com/userwalls/ideadesigns/WallsHd/Paper_dark_small.png"
+    },
+    {
+    "name" : "Paper", 
+    "link" : "http://www.bigdx.com/userwalls/ideadesigns/WallsHd/Paper_small.png"
+    },
+    {
+    "name" : "Pearl", 
+    "link" : "http://www.bigdx.com/userwalls/ideadesigns/WallsHd/Pearl_small.png"
+    },
+    {
+    "name" : "Vivid", 
+    "link" : "http://www.bigdx.com/userwalls/ideadesigns/WallsHd/Vivid_small.png"
     }
 ]
