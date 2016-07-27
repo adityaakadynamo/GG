@@ -25,7 +25,7 @@
     },
     {
     "name" : "Grace", 
-    "link" : "http://www.bigdx.com/userwalls/ideadesigns/WallsHd/Graze_small.png"
+    "link" : "http://www.bigdx.com/userwalls/ideadesigns/WallsHd/Grace_small.png"
     },
     {
     "name" : "Flip", 
