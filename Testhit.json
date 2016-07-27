@@ -2,6 +2,7 @@
     {
     "theme_name" : "Bold UI", 
     "theme_link" : "http://www.google.com",
+    "type" : "free",
     "theme_image" : "https://raw.githubusercontent.com/adityaakadynamo/GG/master/hiten_boldui.png",
     "theme_version" : {
         "number" : "2.5",
@@ -11,6 +12,7 @@
     {
     "theme_name" : "Cherry", 
     "theme_link" : "http://www.google.com",
+    "type" : "free",
     "theme_image" : "https://raw.githubusercontent.com/adityaakadynamo/GG/master/hiten_cherry.png",
     "theme_version" : {
         "number" : "2.5",
@@ -20,6 +22,7 @@
     {
     "theme_name" : "Bold UI", 
     "theme_link" : "http://www.google.com",
+    "type" : "paid",
     "theme_image" : "https://raw.githubusercontent.com/adityaakadynamo/GG/master/hiten_boldui.png",
     "theme_version" : {
         "number" : "2.5",
@@ -29,6 +32,7 @@
     {
     "theme_name" : "Cherry", 
     "theme_link" : "http://www.google.com",
+    "type" : "paid",
     "theme_image" : "https://raw.githubusercontent.com/adityaakadynamo/GG/master/hiten_cherry.png",
     "theme_version" : {
         "number" : "2.5",
