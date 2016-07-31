@@ -45,7 +45,7 @@
     },
     {
     "name" : "Paper", 
-    "link" : "http://www.bigdx.com/userwalls/ideadesigns/WallsHd/Paper.png"
+    "link" : "http://www.bigdx.com/userwalls/ideadesigns/WallsHd/Paper.jpg"
     },
     {
     "name" : "Pearl", 
