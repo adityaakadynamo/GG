@@ -1,74 +1,74 @@
 [
     {
     "name" : "Blak Ui", 
-    "link" : "http://www.bigdx.com/userwalls/ideadesigns/WallsHd/blak_new.png"
+    "link" : "http://www.bigdx.com/userwalls/ideadesigns/WallsHd/Blak_wall.png"
     },
     {
     "name" : "Rise Ui", 
-    "link" : "http://www.bigdx.com/userwalls/ideadesigns/WallsHd/rise_ui_small.png"
+    "link" : "http://www.bigdx.com/userwalls/ideadesigns/WallsHd/rise_ui.png"
     },
     {
     "name" : "Card Ui", 
-    "link" : "http://www.bigdx.com/userwalls/ideadesigns/WallsHd/Cherry_small.png"
+    "link" : "http://www.bigdx.com/userwalls/ideadesigns/WallsHd/Cherry.png"
     },
     {
     "name" : "Dazz", 
-    "link" : "http://www.bigdx.com/userwalls/ideadesigns/WallsHd/Dazz_small.png"
+    "link" : "http://www.bigdx.com/userwalls/ideadesigns/WallsHd/Dazz.png"
     },
     {
     "name" : "Radiant", 
-    "link" : "http://www.bigdx.com/userwalls/ideadesigns/WallsHd/Radiant_small.png"
+    "link" : "http://www.bigdx.com/userwalls/ideadesigns/WallsHd/Radiant.png"
     },
     {
     "name" : "Radiant1", 
-    "link" : "http://www.bigdx.com/userwalls/ideadesigns/WallsHd/Radiant1_small.png"
+    "link" : "http://www.bigdx.com/userwalls/ideadesigns/WallsHd/Radiant1.png"
     },
     {
     "name" : "Grace", 
-    "link" : "http://www.bigdx.com/userwalls/ideadesigns/WallsHd/Grace_small.png"
+    "link" : "http://www.bigdx.com/userwalls/ideadesigns/WallsHd/Grace.png"
     },
     {
     "name" : "Flip", 
-    "link" : "http://www.bigdx.com/userwalls/ideadesigns/WallsHd/Flip_small.png"
+    "link" : "http://www.bigdx.com/userwalls/ideadesigns/WallsHd/Flip.png"
     },
     {
     "name" : "Md1", 
-    "link" : "http://www.bigdx.com/userwalls/ideadesigns/WallsHd/Md1_small.png"
+    "link" : "http://www.bigdx.com/userwalls/ideadesigns/WallsHd/Md1.png"
     },
     {
     "name" : "Md", 
-    "link" : "http://www.bigdx.com/userwalls/ideadesigns/WallsHd/Md_small.png"
+    "link" : "http://www.bigdx.com/userwalls/ideadesigns/WallsHd/Md.png"
     },
     {
     "name" : "Paper Dark", 
-    "link" : "http://www.bigdx.com/userwalls/ideadesigns/WallsHd/Paper_dark_small.png"
+    "link" : "http://www.bigdx.com/userwalls/ideadesigns/WallsHd/Paper_dark.png"
     },
     {
     "name" : "Paper", 
-    "link" : "http://www.bigdx.com/userwalls/ideadesigns/WallsHd/Paper_small.png"
+    "link" : "http://www.bigdx.com/userwalls/ideadesigns/WallsHd/Paper.png"
     },
     {
     "name" : "Pearl", 
-    "link" : "http://www.bigdx.com/userwalls/ideadesigns/WallsHd/Pearl_small.png"
+    "link" : "http://www.bigdx.com/userwalls/ideadesigns/WallsHd/Pearl.png"
     },
     {
     "name" : "Vivid", 
-    "link" : "http://www.bigdx.com/userwalls/ideadesigns/WallsHd/Vivid_small.png"
+    "link" : "http://www.bigdx.com/userwalls/ideadesigns/WallsHd/Vivid.png"
     },
     {
     "name" : "Weyo", 
-    "link" : "http://www.bigdx.com/userwalls/ideadesigns/WallsHd/Weyo_small.png"
+    "link" : "http://www.bigdx.com/userwalls/ideadesigns/WallsHd/Weyo.png"
     },
     {
     "name" : "Blade", 
-    "link" : "http://www.bigdx.com/userwalls/ideadesigns/WallsHd/Blade_small.png"
+    "link" : "http://www.bigdx.com/userwalls/ideadesigns/WallsHd/Blade.png"
     },
     {
     "name" : "Blush", 
-    "link" : "http://www.bigdx.com/userwalls/ideadesigns/WallsHd/Blush_small.png"
+    "link" : "http://www.bigdx.com/userwalls/ideadesigns/WallsHd/Blush.png"
     },
     {
     "name" : "Blush1", 
-    "link" : "http://www.bigdx.com/userwalls/ideadesigns/WallsHd/Blush1_small.png"
+    "link" : "http://www.bigdx.com/userwalls/ideadesigns/WallsHd/Blush1.png"
     }
 ]
