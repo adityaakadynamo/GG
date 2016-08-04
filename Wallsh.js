@@ -70,17 +70,5 @@
     {
     "name" : "Blush1", 
     "link" : "http://www.bigdx.com/userwalls/ideadesigns/WallsHd/Blush1.png"
-    },
-    {
-    "name" : "Blade", 
-    "link" : "http://www.bigdx.com/userwalls/ideadesigns/WallsHd/Blade.png"
-    },
-    {
-    "name" : "Blush", 
-    "link" : "http://www.bigdx.com/userwalls/ideadesigns/WallsHd/Blush.png"
-    },
-    {
-    "name" : "Blush1", 
-    "link" : "http://www.bigdx.com/userwalls/ideadesigns/WallsHd/Blush1.png"
     }
 ]
