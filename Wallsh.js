@@ -1,5 +1,8 @@
 [
     {
+     "category_name" : "Nature", 
+     "walls" : [
+         {
     "name" : "Blak Ui", 
     "link" : "http://www.bigdx.com/userwalls/ideadesigns/WallsHd/Blak_wall.png"
     },
@@ -170,5 +173,7 @@
     {
     "name" : "Eminence", 
     "link" : "https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls/Eminence.png"
+    }
+         ]
     }
 ]
