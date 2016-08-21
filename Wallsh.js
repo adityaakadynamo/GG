@@ -18,6 +18,16 @@
             "thumb":"https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls/Thumbs/Fusion.png"
          },
          {  
+            "name":"Fusion",
+            "link":"https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls/Material/Fusion.png",
+            "thumb":"https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls/Thumbs/Fusion.png"
+         },
+         {  
+            "name":"Inspire",
+            "link":"https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls/Material/Inspire.png",
+            "thumb":"https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls/Thumbs/Inspire.png"
+         },
+         {  
             "name":"Inspire",
             "link":"https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls/Material/Inspire.png",
             "thumb":"https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls/Thumbs/Inspire.png"
