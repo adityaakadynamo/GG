@@ -2,6 +2,11 @@
   {
     "category_name":"Material",
     "walls":[
+    	{
+		"name": "Fusion",
+		"link": "https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls/Material/Fusion.png",
+		"thumb": "https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls/Thumbs/Fusion.png"
+     },
      {
 		"name": "Fusion",
 		"link": "https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls/Material/Fusion.png",
