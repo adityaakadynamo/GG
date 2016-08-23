@@ -8,6 +8,21 @@
 		"thumb": "https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls1/Thumbs/Fusion.png"
      },
      {
+		"name": "Fusion",
+		"link": "https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls1/Material/Fusion.png",
+		"thumb": "https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls1/Thumbs/Fusion.png"
+     },
+     {
+		"name": "Fusion",
+		"link": "https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls1/Material/Fusion.png",
+		"thumb": "https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls1/Thumbs/Fusion.png"
+     },
+     {
+		"name": "Fusion",
+		"link": "https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls1/Material/Fusion.png",
+		"thumb": "https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls1/Thumbs/Fusion.png"
+     },
+     {
 		"name": "Inspire",
 		"link": "https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls1/Material/Inspire.png",
 		"thumb": "https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls1/Thumbs/Inspire.png"
@@ -32,6 +47,16 @@
   {
     "category_name":"Pattern & Stripes",
     "walls":[
+     {
+		"name": "Fusion",
+		"link": "https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls1/Material/Fusion.png",
+		"thumb": "https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls1/Thumbs/Fusion.png"
+     },
+     {
+		"name": "Fusion",
+		"link": "https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls1/Material/Fusion.png",
+		"thumb": "https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls1/Thumbs/Fusion.png"
+     },
       {
         "name":"Rise Ui",
         "link":"https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls1/StripesandPatterns/RiseUi.png",
@@ -82,6 +107,16 @@
   {
     "category_name":"Bokeh",
     "walls":[
+     {
+		"name": "Fusion",
+		"link": "https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls1/Material/Fusion.png",
+		"thumb": "https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls1/Thumbs/Fusion.png"
+     },
+     {
+		"name": "Fusion",
+		"link": "https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls1/Material/Fusion.png",
+		"thumb": "https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls1/Thumbs/Fusion.png"
+     },
       {
         "name":"Oxygen",
         "link":"https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls1/Bokeh/Oxygen.png",
