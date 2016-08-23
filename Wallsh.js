@@ -2,6 +2,19 @@
   {
     "category_name":"Material",
     "walls":[
+    	{
+		"name": "Fusion",
+		"link": "https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls1/Material/Fusion.png",
+		"thumb": "https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls1/Thumbs/Fusion.png"
+     },{
+		"name": "Fusion",
+		"link": "https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls1/Material/Fusion.png",
+		"thumb": "https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls1/Thumbs/Fusion.png"
+     },{
+		"name": "Fusion",
+		"link": "https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls1/Material/Fusion.png",
+		"thumb": "https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls1/Thumbs/Fusion.png"
+     },
      {
 		"name": "Fusion",
 		"link": "https://raw.githubusercontent.com/hiten1985/SamsungThemes/master/Walls1/Material/Fusion.png",
