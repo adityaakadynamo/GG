@@ -1,9 +1,5 @@
 [
-  {
-		"name": "Rise Ui",
-		"author": "Hiten Soni",
-		"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/StripesandPatterns/RiseUi.png"
-	}, {
+   {
 		"name": "Ace",
 		"author": "Hiten Soni",
 		"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/StripesandPatterns/Ace.png"
@@ -28,6 +24,10 @@
 		"author": "Hiten Soni",
 		"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/StripesandPatterns/Eco.png"
 	}, {
+		"name": "Rise Ui",
+		"author": "Hiten Soni",
+		"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/StripesandPatterns/RiseUi.png"
+	},{
 		"name": "Prime",
 		"author": "Hiten Soni",
 		"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/StripesandPatterns/Prime.png"

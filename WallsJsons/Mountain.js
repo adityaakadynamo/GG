@@ -1,9 +1,5 @@
 [
-  {
-			"name": "Moon",
-			"author": "Hiten Soni",
-			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Mountains/Moon.png"
-		},
+
               {
 			"name": "Mountain",
 			"author": "Hiten Soni",
@@ -23,5 +19,9 @@
 			"name": "Mountain 3",
 			"author": "Hiten Soni",
 			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Mountains/Mountain3.png"
-		}
+		},{
+  			"name": "Moon",
+  			"author": "Hiten Soni",
+  			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Mountains/Moon.png"
+  		}
 ]

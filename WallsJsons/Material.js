@@ -1,10 +1,5 @@
 [
-  {
-   "author": "Hiten Soni",
-   "name": "Soul",
-   "url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Material/Soul.png"
-
- }, {
+   {
    "name": "Vibes",
    "author": "Hiten Soni",
    "url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Material/Vibes.png"
@@ -25,7 +20,12 @@
      "name": "Material 6",
      "author": "Hiten Soni",
      "url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Material/Material_6.png"
-   },
+   },{
+    "author": "Hiten Soni",
+    "name": "Soul",
+    "url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Material/Soul.png"
+
+  },
                {
      "name": "Material 7",
      "author": "Hiten Soni",

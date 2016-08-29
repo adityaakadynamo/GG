@@ -1,9 +1,5 @@
 [
-  {
-		"name": "Deep",
-		"author": "Hiten Soni",
-		"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Photography/Deep.JPG"
-	},
+
         {
 		"name": "Photography",
 		"author": "Hiten Soni",
@@ -29,6 +25,11 @@
 		"author": "Hiten Soni",
 		"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Photography/Photography_5.jpg"
 		},
+    {
+  		"name": "Deep",
+  		"author": "Hiten Soni",
+  		"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Photography/Deep.JPG"
+  	},
 		{
 		"name": "Photography 6",
 		"author": "Hiten Soni",
