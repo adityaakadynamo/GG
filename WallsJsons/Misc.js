@@ -1,9 +1,4 @@
 [
-  {
-			"name": "Mkbhd",
-			"author": "Hiten Soni",
-			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Misc/Mkbhd.png"
-		},
                 {
 			"name": "Sea",
 			"author": "Hiten Soni",
