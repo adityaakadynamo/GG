@@ -2,6 +2,7 @@
   {
  		"name": "Indian Mountains",
  		"author": "Hiten Soni",
+ 		"thumb_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Photography/Mountains-India.jpg",
  		"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Photography/Mountains-India.jpg"
  		},  
   {
