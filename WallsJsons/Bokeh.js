@@ -36,7 +36,7 @@
     "thumb_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Thumbs/Bokeh_5.png"
   },
   {
- +			"name": "Bokeh - For all those light setups!",
+  			"name": "Bokeh - For all those light setups!",
   			"author": "Hiten Soni",
   			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Bokeh/Bokeh_5.png"
   			"thumb_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Bokeh/Bokeh_6.png"
