@@ -1,5 +1,11 @@
 [
   {
+			"name": "Magic_mix",
+			"author": "Hiten Soni",
+			"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/StripesandPatterns/Magic_mix.png",
+			"thumb_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Thumb/Magic_mix.png"
+	},
+  {
     "name": "Rise Ui",
     "author": "Hiten Soni",
     "url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/StripesandPatterns/RiseUi.png",
