@@ -1,16 +1,16 @@
 [  
-   {
-		"name": "Bluo",
-		"author": "Hiten Soni",
-		"url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Bokeh/Bluo.png",
-      "thumb_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Thumb/Bluo.png"
-	}, 
-	{
-		"name": "Vintage Bokeh",
-		"author": "Hiten Soni",
-      "url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Bokeh/Vintage_Bokeh.jpg",
-		"thumb_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Thumb/Vintage_Bokeh.jpg"
-	},
+   {  
+      "name":"Bluo",
+      "author":"Hiten Soni",
+      "url":"https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Bokeh/Bluo.png",
+      "thumb_url":"https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Thumb/Bluo.png"
+   },
+   {  
+      "name":"Vintage Bokeh",
+      "author":"Hiten Soni",
+      "url":"https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Bokeh/Vintage_Bokeh.jpg",
+      "thumb_url":"https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Thumb/Vintage_Bokeh.jpg"
+   },
    {  
       "name":"Oxygen",
       "author":"Hiten Soni",
