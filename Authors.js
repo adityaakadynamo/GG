@@ -1,7 +1,7 @@
 [
   {
     "Hiten Soni": "",
-    "author_description": "This is Hiten Soni",
+    "author_description": "This is Hiten Soni"
   }, 
   {
     "name": "Bokeh 1",
