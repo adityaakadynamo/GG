@@ -1,5 +1,26 @@
 [  
-   
+   {
+         "name": "Polygon 1",
+         "author": "Hiten Soni",
+         "url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Polygon/Polygon1.png",
+         "thumb_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Thumb/Polygon1.png"
+      },
+      {
+         "name": "Polygon 2",
+         "author": "Hiten Soni",
+         "url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Polygon/Polygon2.png",
+         "thumb_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Thumb/Polygon2.png"
+      },
+      {
+         "name": "Polygon 3",
+         "author": "Hiten Soni",
+         "url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Polygon/Polygon3.png",
+         "thumb_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Thumb/Polygon3.png"
+      },
+      {
+         "name": "Polygon 4",
+         "author": "Hiten Soni",
+         "url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Walls/Polygon/Polygon4.png",
          "thumb_url": "https://raw.githubusercontent.com/hiten1985/Backgrounds/master/Thumb/Polygon4.png"
       },
       {
