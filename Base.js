@@ -34,5 +34,5 @@
   {
     "category": "Photography",
     "jsonlink": "https://raw.githubusercontent.com/adityaakadynamo/GG/master/WallsJsons/Photography.js",
-  }, 
+  }
 ]
