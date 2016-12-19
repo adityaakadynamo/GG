@@ -22,5 +22,5 @@
    {  
       "drawer":"Others",
       "jsons":"https://raw.githubusercontent.com/adityaakadynamo/GG/master/Base.js"
-   },
+   }
 ]
